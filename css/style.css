@@ -11,7 +11,6 @@ body {
     background-attachment: fixed;
 }
 
-/* Pagina principal */
 main {
     display: flex;
     flex-direction: column;
@@ -21,6 +20,7 @@ main {
 
 @media (min-width: 360px) {
 
+    /* Pagina principal */
     /* Juego destacado */
     #juego-destacado {
         height: max-content;
@@ -63,9 +63,14 @@ main {
     }
 
     /* Juego destacado */
+
+    /* Pagina principal */
 }
 
 @media (min-width: 768px) {
+
+    /* Pagina principal */
+    /* Juego destacado */
     #juego-destacado {
         height: 50vh;
         display: flex;
@@ -96,9 +101,15 @@ main {
         right: 10%;
         bottom: 54%;
     }
+
+    /* Juego destacado */
+    /* Pagina principal */
 }
 
 @media (min-width: 1200px) {
+
+    /* Pagina principal */
+    /* Juego destacado */
     #juego-destacado {
         height: 80vh;
         display: flex;
@@ -129,6 +140,9 @@ main {
         right: 10%;
         bottom: 22.5%;
     }
+
+    /* Juego destacado */
+    /* Pagina principal */
 }
 
 /* Carousel */
@@ -242,5 +256,3 @@ main {
 }
 
 /* Carousel */
-
-/* Pagina principal */

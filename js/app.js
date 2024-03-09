@@ -43,4 +43,3 @@ let nextAction = function (
 
 //Pagina principal 
 
-
